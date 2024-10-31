@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/meoluoitt1.svg" width="1200" alt="" />
+  <img src="meoluoitt1.svg" width="1200" alt="" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -89,5 +89,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/meoluoitt12.svg" width="846" height="150" alt="trần anh khoa " />
+  <img src="meoluoitt12.svg" width="846" height="150" alt="trần anh khoa " />
 </a>
